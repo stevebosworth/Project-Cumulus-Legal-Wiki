@@ -1,0 +1,39 @@
+#main_logo_title{
+        width:70%;
+        margin:0 auto;
+        text-align: center;
+}
+
+#main_logo_title img{
+        margin:0 auto;
+        margin-top:0px;
+        margin-bottom:35px;
+}
+
+#bsc_search{
+    width:70%;
+    margin:0 auto;
+    margin-top:25px;
+}
+
+#adv_option{
+    margin-top:12px;
+    padding-right:120px;
+    float:right;
+}
+
+#txt_search{
+    width:625px;
+    margin-right:10px;
+}
+
+
+#adv_search{
+    display:none;
+}
+
+#video{
+    width:240px;
+    margin:0 auto;
+    margin-top:100px;
+}

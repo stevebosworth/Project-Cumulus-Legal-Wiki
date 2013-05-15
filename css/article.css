@@ -1,0 +1,262 @@
+@charset "UTF-8";
+/* CSS Document - Last edited by Chris Voorberg - February 23 2013 */
+
+#main_logo_title{
+        width:70%;
+        margin:0 auto;
+        text-align: center;
+}
+
+#main_logo_title img{
+        margin:0 auto;
+        margin-top:0px;
+        margin-bottom:35px;
+}
+
+#bsc_search{
+    width:70%;
+    margin:0 auto;
+    margin-top:25px;
+}
+
+#adv_option{
+    margin-top:12px;
+    padding-right:120px;
+    float:right;
+}
+
+#txt_search{
+    width:625px;
+    margin-right:10px;
+}
+
+
+#adv_search{
+    display:none;
+}
+
+#video{
+    width:240px;
+    margin:0 auto;
+    margin-top:100px;
+}
+
+#search {
+	margin-bottom:60px;
+}
+
+/* Content Styling */
+
+
+h1{
+	padding: 5px;
+}
+
+h4{
+	padding:0 3px 3px 15px;
+}
+
+h5 {
+	color:#999;
+	font-size:14px;
+	font-weight:normal;
+	margin:10px;
+}
+
+h2 {
+	margin:20px 10px;
+}
+
+p{
+	margin-right:15px;
+}
+
+#breadcrumbs {
+	border-bottom:1px solid #CCC;
+	font-size:14px;
+	line-height:30px;
+	overflow:auto;
+}
+
+#breadcrumbs li {
+	display:inline;
+}
+
+#breadcrumbs li a {
+	color:#003EF2;
+}
+
+
+
+#sec_heading{
+	margin-top: 15px;
+	margin-left: 10px;
+}
+
+#sec_body{
+	margin-top: 10px;
+	margin-left:10px;
+}
+
+.law_article {
+	clear:both;
+	float:left;
+	margin-left:20px;
+	margin-bottom:40px;
+	width:580px;
+}
+
+.law_article p {
+	margin:30px 20px;
+}
+
+#relevant h4 {
+	background:#BAC0C9;
+	padding:5px;
+	margin:10px 10px;
+}
+
+#word_cloud {
+	border:1px solid #CCC;
+	border-radius:7px;
+	float:right;
+	margin-right:20px;
+	padding:10px 0 10px 28px;
+	width:350px;
+}
+
+.tag1 {
+	color:#001A66;
+	font-size:16px;
+	margin:5px 30px;
+}
+
+.tag2 {
+	color:#001A66;
+	font-size:19px;
+	margin:5px 200px;
+}
+
+.tag3 {
+	color:#001A66;
+	font-size:24px;
+	margin:5px 85px;
+}
+
+.accordion {
+	clear:both;
+	margin-right:20px;
+	margin-bottom:50px;
+	width:380px;
+}
+
+.panelshow {
+	background:#D9D3B8;
+	border:1px solid #B59D6E;
+	border-radius:7px;
+	margin:1px;
+	padding:10px;
+}
+
+.panel {
+	background:#FFF;
+	border:1px solid #CCC;
+	border-radius:7px;
+	display:none;
+        padding:10px 30px;
+}
+
+label {
+	margin-left:10px;
+}
+
+#sidebar {
+	margin-top:30px;
+	float:right;
+}
+
+footer {
+	clear:both;
+}
+
+i {
+   	font-style:italic;
+}
+
+b {
+    font-weight:bold;
+}
+
+.resized {
+    width:150px;
+    float:right;
+    margin-right:20px;
+}
+
+form p {
+    clear:both;
+    margin:20px 0;
+}
+
+.sub_button {
+    margin:20px 0 0 160px;
+}
+
+.cms_rows {
+	margin:20px 10px;
+}
+
+.cms_button {
+	background:#E0DFE4;
+	border:2px solid gray;
+	color:#000;
+	margin:0px 8px;
+	padding:3px;
+	text-decoration: none;
+}
+
+#relCaselaws {
+	margin-bottom:20px;
+}
+
+.indCaselaw {
+	border:1px solid #ededed;
+	border-radius:6px;
+	clear:both;
+	height:140px;
+	margin:0 10px 10px 10px;
+}
+
+.voteIcons {
+	background:#CCC;
+	border-radius:8px;
+	margin-right:10px;
+	margin-top:-8px;
+	float:left;
+}
+
+.voteButton {
+	float:left;
+}
+
+.vote_result {
+	float:left;
+	width:50px;
+}
+
+.votes {
+	color:#808080;
+	float:left;
+	font-size:18px;
+	font-style:italic;
+	margin-left:40px;
+}
+
+
+
+
+
+
+
+
+
